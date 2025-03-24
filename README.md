@@ -18,3 +18,4 @@ using DAO (Data Access Object) pattern.
 - Simple HTTP API
 - Data is stored in memory using Java `HashMap`
 - The Server class processes HTTP request and returns the appropriate response
+- Responses return a JSON object as the body of an http response
