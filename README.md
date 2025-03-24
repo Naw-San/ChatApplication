@@ -8,9 +8,9 @@ I was given starting skeleton code and I was asked to complete code in order to 
 # Overview
 Transaction Processing API
 
-A simple HTTP-based transaction processing system that allowed users to make deposits into their accounts.
+A HTTP-based transaction processing system that allowed users to make deposits into their accounts.
 This application uses a custom-built HTTP request handler and store user data and transactions in memory
-using DAO (Data Access Object) pattern.
+using DAO (Data Access Object) pattern. And DTO (Data Transfer Object) defines data structure.
 
 # Features
 - Create Deposit
